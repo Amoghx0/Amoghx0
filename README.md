@@ -12,7 +12,7 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Monitoring using Splunk          | <a href="https://github.com/Amoghx0/Security-Monitoring-using-Splunk">Security Monitoring using Splunk</a>|
-|   Windows Sysmon Endpoint Monitoring with Splunk SIEM  | <a href="https://google.com](https://github.com/Amoghx0/-Windows-Sysmon-Endpoint-Monitoring-with-Splunk-SIEM-and-Simulated-Attacker">windows sysmon endpoint with splunk SIEM</a>|
+|   Windows Sysmon Endpoint Monitoring with Splunk SIEM  | <a href="https://github.com/Amoghx0/-Windows-Sysmon-Endpoint-Monitoring-with-Splunk-SIEM-and-Simulated-Attacker">windows sysmon endpoint with splunk SIEM</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
