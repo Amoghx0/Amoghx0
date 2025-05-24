@@ -46,6 +46,3 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 <img src="https://img.shields.io/badge/-Linux%20Certification-2C3E50?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/Amoghx0/Security-Monitoring-using-Splunk">Security Monitoring using Splunk</a>
-- SOC Automation Project
