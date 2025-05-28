@@ -14,7 +14,7 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 | Security Monitoring using Splunk          | <a href="https://github.com/Amoghx0/Security-Monitoring-using-Splunk">Security Monitoring using Splunk</a>|
 |   Windows Sysmon Endpoint Monitoring with Splunk SIEM  | <a href="https://github.com/Amoghx0/-Windows-Sysmon-Endpoint-Monitoring-with-Splunk-SIEM-and-Simulated-Attacker">windows sysmon endpoint with splunk SIEM</a>|
 |  Intrusion Detection System using Suricata         | <a href="https://github.com/Amoghx0/-Intrusion-Detection-System-using-Suricata">Intrusion Detection System using Suricata</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Network Analysis Exfiltration Lab      |  <a href="https://github.com/Amoghx0/Document-cyberdefender-network-analysis-exfiltration-lab">Lab</a> |
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
