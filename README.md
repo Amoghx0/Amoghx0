@@ -43,6 +43,7 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 
 <div>
 <img src="https://img.shields.io/badge/IBM-Cybersecurity-blue?style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux%20Certification-2C3E50?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux%20(Coursera%20Certified)-2C3E50?&style=for-the-badge&logo=coursera&logoColor=white" />
+
 </div>
 
