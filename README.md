@@ -15,7 +15,7 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 |   Windows Sysmon Endpoint Monitoring with Splunk SIEM  | <a href="https://github.com/Amoghx0/-Windows-Sysmon-Endpoint-Monitoring-with-Splunk-SIEM-and-Simulated-Attacker">windows sysmon endpoint with splunk SIEM</a>|
 |  Intrusion Detection System using Suricata         | <a href="https://github.com/Amoghx0/-Intrusion-Detection-System-using-Suricata">Intrusion Detection System using Suricata</a>|
 | Network Analysis Exfiltration Lab      |  <a href="https://github.com/Amoghx0/Document-cyberdefender-network-analysis-exfiltration-lab">Lab</a>|
-| Malware Analysis Lab                  |  <a href="https://github.com/Amoghx0/malware-analysis-letsdefend-lab">Lab</a>||
+| Malware Analysis Lab                  |  <a href="https://github.com/Amoghx0/malware-analysis-letsdefend-lab">Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
