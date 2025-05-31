@@ -16,7 +16,8 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 |  Intrusion Detection System using Suricata         | <a href="https://github.com/Amoghx0/-Intrusion-Detection-System-using-Suricata">Intrusion Detection System using Suricata</a>|
 | Network Analysis Exfiltration Lab      |  <a href="https://github.com/Amoghx0/Document-cyberdefender-network-analysis-exfiltration-lab">Lab</a>|
 | Malware Analysis Lab                  |  <a href="https://github.com/Amoghx0/malware-analysis-letsdefend-lab">Lab</a>|
-| Firewalls [WAF], [NETWORK] | Soon|
+| Security Monitoring using Wazuh EDR | Soon|
+| WAF Firewall, Network Firewall | soon |
 
 ## Tools
 
