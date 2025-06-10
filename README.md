@@ -32,7 +32,7 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-0267C1?&style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Badge" />
-    <img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Sysmon Badge" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 
 ### SIEM
